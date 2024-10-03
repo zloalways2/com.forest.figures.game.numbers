@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 598763a93df63b0428810646a51c2659
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Judson
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: de92dfbe26784f04f9a4bd5029a78816, type: 3}
+  - {fileID: 12800000, guid: 3640ec0c686695a41811dbe37d19c910, type: 3}
+  - {fileID: 12800000, guid: 033a82dd9dfc2e848959bda0457c4158, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
